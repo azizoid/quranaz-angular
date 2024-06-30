@@ -1,27 +1,21 @@
-# QuranazAngular
+### Quran.az
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.6.
+This is an educational project that provides translations of the Quran in Azerbaijani and Russian languages. The website makes it easy to search and navigate between the surahs and ayahs of the Quran.
 
-## Development server
+### Basic Usage
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- https://quran.az/1
+- https://quran.az/96/1
+- https://quran.az/2/255
 
-## Code scaffolding
+First version of the app was written in HTML in 2005, then pure PHP, CakePhp, then moved to Laravel, React, Nextjs and now Angular
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Tech Stack
 
-## Build
+- Angular
+- To be added...
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### Acknowledgments
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+- Quran.az for providing the Translations used in this project.
+- MongoDB for the document database used in this project.
